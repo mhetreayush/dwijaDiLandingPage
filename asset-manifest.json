@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.11b18926.css",
-    "main.js": "/static/js/main.65e71764.js",
+    "main.css": "/static/css/main.396bf5da.css",
+    "main.js": "/static/js/main.f3406a0d.js",
     "static/media/book.png": "/static/media/book.a63e62ebf32f93d7300d.png",
     "static/media/meetTheAuthor.png": "/static/media/meetTheAuthor.0168745ae2e4a297aa79.png",
     "static/media/buyTicketsBg.png": "/static/media/buyTicketsBg.89e01fb1c0667358e257.png",
@@ -13,11 +13,11 @@
     "static/media/eventMilestones.png": "/static/media/eventMilestones.54b4a28f6956b632800e.png",
     "static/media/toi.png": "/static/media/toi.dead03bd05f1e4e4a858.png",
     "index.html": "/index.html",
-    "main.11b18926.css.map": "/static/css/main.11b18926.css.map",
-    "main.65e71764.js.map": "/static/js/main.65e71764.js.map"
+    "main.396bf5da.css.map": "/static/css/main.396bf5da.css.map",
+    "main.f3406a0d.js.map": "/static/js/main.f3406a0d.js.map"
   },
   "entrypoints": [
-    "static/css/main.11b18926.css",
-    "static/js/main.65e71764.js"
+    "static/css/main.396bf5da.css",
+    "static/js/main.f3406a0d.js"
   ]
 }
