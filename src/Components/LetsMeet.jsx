@@ -3,7 +3,7 @@ import { BuyTicketsButton } from "./Navbar";
 
 const LetsMeet = () => {
   return (
-    <div>
+    <div id="event">
       <div className="flex items-center flex-col">
         <h1 className="topicHeading">LET&apos;S MEET IRL</h1>
         <img src={Assets.underline} alt="" className="w-1/4" />

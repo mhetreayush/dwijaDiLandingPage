@@ -2,7 +2,10 @@ import author from "../Assets/meetTheAuthor.png";
 import { BuyTicketsButton } from "./Navbar";
 const MeetTheAuthor = () => {
   return (
-    <div className="rounded-lg grid py-28 grid-cols-2 bg-gradient-to-t to-[#B54E78] from-[#8D3B5C]">
+    <div
+      id="author"
+      className="rounded-lg grid py-28 grid-cols-2 bg-gradient-to-t to-[#B54E78] from-[#8D3B5C]"
+    >
       <div className="col-span-1  px-20 text-white">
         <div className="flex flex-col gap-y-12">
           <h1 className="topicHeading !text-left">MEET THE AUTHOR</h1>

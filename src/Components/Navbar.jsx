@@ -20,7 +20,7 @@ const Navbar = () => {
         <h1 className="topicHeading text-4xl"> DR. CUTERUS</h1>
       </div>
       <div className="col-span-4 flex justify-center gap-x-16">
-        {["about", "author", "event", "timeline"].map((event) => (
+        {["about", "event", "author", "timeline"].map((event) => (
           <a className="text-2xl font-bold" href={`#${event}`}>
             {capitalize(event)}
           </a>

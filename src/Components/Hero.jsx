@@ -3,7 +3,7 @@ const headingClass =
   "rounded-md !text-8xl topicHeading bg-black text-[#FFB606] py-3 px-5";
 const Hero = () => {
   return (
-    <div>
+    <div id="about">
       <div className="grid grid-cols-10">
         <div className="col-span-2">
           <img src={assets.left} alt="Left" />
