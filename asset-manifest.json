@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dwijaDiLandingPage/static/css/main.396bf5da.css",
-    "main.js": "/dwijaDiLandingPage/static/js/main.c3126ded.js",
+    "main.js": "/dwijaDiLandingPage/static/js/main.a6396cf2.js",
     "static/media/book.png": "/dwijaDiLandingPage/static/media/book.a63e62ebf32f93d7300d.png",
     "static/media/meetTheAuthor.png": "/dwijaDiLandingPage/static/media/meetTheAuthor.0168745ae2e4a297aa79.png",
     "static/media/buyTicketsBg.png": "/dwijaDiLandingPage/static/media/buyTicketsBg.89e01fb1c0667358e257.png",
@@ -14,10 +14,10 @@
     "static/media/toi.png": "/dwijaDiLandingPage/static/media/toi.dead03bd05f1e4e4a858.png",
     "index.html": "/dwijaDiLandingPage/index.html",
     "main.396bf5da.css.map": "/dwijaDiLandingPage/static/css/main.396bf5da.css.map",
-    "main.c3126ded.js.map": "/dwijaDiLandingPage/static/js/main.c3126ded.js.map"
+    "main.a6396cf2.js.map": "/dwijaDiLandingPage/static/js/main.a6396cf2.js.map"
   },
   "entrypoints": [
     "static/css/main.396bf5da.css",
-    "static/js/main.c3126ded.js"
+    "static/js/main.a6396cf2.js"
   ]
 }
